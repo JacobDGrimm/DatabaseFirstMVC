@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ContosoSite.Models
 {
-    public class StudentMetaData
+    public class StudentMetadata
     {
         [StringLength(50)]
         [Display(Name = "Last Name")]
