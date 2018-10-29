@@ -9,3 +9,6 @@ Generating the model took 00:00:00.9315895.
 Generated model file: ContosoModel.edmx.
 Loading metadata from the database took 00:00:00.4539688.
 Generating the model took 00:00:00.3279773.
+Generated model file: ContosoModel.edmx.
+Loading metadata from the database took 00:00:00.5214595.
+Generating the model took 00:00:00.9951241.
